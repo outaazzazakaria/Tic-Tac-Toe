@@ -58,7 +58,7 @@ tic-tac-toe/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tic-tac-toe.git
+git clone https://github.com/outaazzazakaria/Tic-Tac-Toe.git
 ```
 
 ### 2. Navigate to the project folder
